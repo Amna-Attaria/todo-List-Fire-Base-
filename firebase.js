@@ -2,7 +2,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.1/firebas
 import { getFirestore, collection, addDoc, onSnapshot,Timestamp ,deleteDoc,doc,query,orderBy} from "https://www.gstatic.com/firebasejs/11.0.1/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyArPZitj3Jxi5-E3ZL79opPnyNYIupF0bM",
+  // apiKey: "AIzaSyArPZitj3Jxi5-E3ZL79opPnyNYIupF0bM",
   authDomain: "to-do-list-data-fc46a.firebaseapp.com",
   projectId: "to-do-list-data-fc46a",
   storageBucket: "to-do-list-data-fc46a.firebasestorage.app",
